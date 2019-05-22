@@ -1,13 +1,16 @@
 # Change-logs
 
-## 31. February 25,2019
+## 33. May 21,2019
+**Up-to-date with Lineage-OS source as of 05.21.2019
+
+## 32. February 25,2019
 Release status: stable-v30
 Import Core Control fix
 Import "Hotspot" fix
-Up-to-date with Lineace-OS source as of 02.25.2019
+Up-to-date with Lineage-OS source as of 02.25.2019
 SmartPack boot script: update default profile (credits: justjr)
 
-## Alpha-v1.0 February 7. 2019
+## 31. February 7. 2019
 Release status: stable-v29
 Initial Take Over Of SmartPack S5 Project
 Up-to-date with Lineage-OS source as of 02.17.2019
