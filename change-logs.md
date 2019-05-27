@@ -1,5 +1,10 @@
 # Change-logs
 
+## 34. May 24. 2019
+##
+*Up-to-date with Lineage-OS source as of 05.27.2019
+*Compiled with "Bleeding-Edge-Toolchain" 9.1
+
 ## 33. May 21,2019
 **Up-to-date with Lineage-OS source as of 05.21.2019
 

@@ -50,9 +50,9 @@ ARCHITECTURE="arm"
 
 KERNEL_NAME="SmartPack-Kernel"
 
-KERNEL_VARIANT="kltedv"	# options: klte, kltekor, kltedv, klteduos, kltekdi & all (build all the variants)
+KERNEL_VARIANT="all"	# options: klte, kltekor, kltedv, klteduos, kltekdi & all (build all the variants)
 
-KERNEL_VERSION="stable-v31"   # leave as such, if no specific version tag
+KERNEL_VERSION="stable-v34"   # leave as such, if no specific version tag
 
 KERNEL_DEFCONFIG="SmartPack_@$KERNEL_VARIANT@_defconfig"
 
