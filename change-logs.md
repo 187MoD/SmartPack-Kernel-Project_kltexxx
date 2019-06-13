@@ -1,5 +1,9 @@
 # Change-logs
 
+## 35. June 13. 2019
+##
+*Up-to-date with Lineage-OS source as of 06.13.2019
+
 ## 34. May 24. 2019
 ##
 *Up-to-date with Lineage-OS source as of 05.27.2019
